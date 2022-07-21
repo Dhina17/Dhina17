@@ -4,9 +4,9 @@ Hi 👋 My name is Dhina17
 Android Developer
 -----------------
 
-I am a passionate and self taught Android Developer who have good experience in AOSP, Native Android Apps (Java/Kotlin), Android for Embedded, Android in IOT, Linux Kernel.
+I am a passionate and self-taught Android Developer who has good experience in AOSP, Native Android Apps (Java/Kotlin), Android for Embedded, Android in IoT, and Linux Kernel.
 I am more inclined to open-source which leads me to contribute few open-source projects.
-Sometimes I work in automation, scripting, bots for myself.
+Sometimes I work in automation, scripting, and bots for myself.
 
 If you are searching for a freelance Android Developer, Feel free to contact me. Let's figure it out together. :-)
 
