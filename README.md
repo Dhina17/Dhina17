@@ -11,7 +11,7 @@ Sometimes I work in automation, scripting, and bots for myself.
 If you are searching for a freelance Android Developer, Feel free to contact me. Let's figure it out together. :-)
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Dhina17](http://dhina17.github.io)
+* 🖥️  See my portfolio at [Dhina17](http://bio.link/dhina17)
 * ✉️  You can contact me at [dhinalogu@gmail.com](mailto:dhinalogu@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
