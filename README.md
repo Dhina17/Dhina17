@@ -8,8 +8,6 @@ I am a passionate and self-taught Android Developer who has good experience in A
 I am more inclined to open-source which leads me to contribute few open-source projects.
 Sometimes I work in automation, scripting, and bots for myself.
 
-If you are searching for a freelance Android Developer, Feel free to contact me. Let's figure it out together. :-)
-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Dhina17](http://bio.link/dhina17)
 * ✉️  You can contact me at [dhinalogu@gmail.com](mailto:dhinalogu@gmail.com)
