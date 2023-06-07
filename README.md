@@ -9,7 +9,7 @@ I am more inclined to open-source which leads me to contribute few open-source p
 Sometimes I work in automation, scripting, and bots for myself.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Dhina17](http://bio.link/dhina17)
+* 🖥️  See my portfolio at [Dhina17](https://dhina17.dev)
 * ✉️  You can contact me at [dhinalogu@gmail.com](mailto:dhinalogu@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
