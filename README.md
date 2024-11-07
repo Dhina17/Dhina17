@@ -4,7 +4,7 @@ Hi 👋 My name is Dhina17
 Android Developer
 -----------------
 
-Self taught | AOSP | Open Source | Freelance
+**AOSP | Open Source | Freelance**
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [dhina17.dev](https://dhina17.dev)
