@@ -4,9 +4,7 @@ Hi 👋 My name is Dhina17
 Android Developer
 -----------------
 
-I am a passionate and self-taught Android Developer who has good experience in AOSP, Native Android Apps (Java/Kotlin), Android for Embedded, Android in IoT, and Linux Kernel.
-I am more inclined to open-source which leads me to contribute few open-source projects.
-Sometimes I work in automation, scripting, and bots for myself.
+Self taught | AOSP | Open Source | Freelance
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [dhina17.dev](https://dhina17.dev)
